@@ -6,3 +6,4 @@
 2.자동으로 코드완성
 3.사람이 조금만 고치면 코드 
 https://visualstudio.microsoft.com/ko/services/intellicode/
+전체적인 그림 +기본실력이 중요해 질 듯 세부적인 것보다.
