@@ -5,3 +5,4 @@
 1.사람의 문장을 이해한다.
 2.자동으로 코드완성
 3.사람이 조금만 고치면 코드 
+https://visualstudio.microsoft.com/ko/services/intellicode/
